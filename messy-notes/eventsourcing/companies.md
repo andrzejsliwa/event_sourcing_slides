@@ -7,6 +7,8 @@ Atlassian:
 Flowdock
   - https://www.lightbend.com/resources/case-studies-and-stories/flowdock-scales-messaging-with-akka
 
+Yammer:
+  https://berlinbuzzwords.de/session/event-sourcing-yammer
 
 
 Paycasso Conquers Speed Gap In Three-Factor Authentication With Reactive Stack - @Lightbend - Case Study
@@ -23,8 +25,6 @@ Walmart boosts conversions by 20% with Lightbend Reactive Platform - @Lightbend 
 
 Paypal:
   - http://highscalability.com/blog/2016/8/15/how-paypal-scaled-to-billions-of-transactions-daily-using-ju.html
-
-
 
 
 

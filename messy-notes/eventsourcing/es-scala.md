@@ -1,1 +1,0 @@
-- [Reducing Microservice Complexity with Kafka and Reactive Streams - by Jim Riecken - 2016/06 - Hootsuite](https://www.youtube.com/watch?v=k_Y5ieFHGbs&index=9&list=PL5cnXKhXmBeYx9JRZHnfWsKhAMwgrruoS)

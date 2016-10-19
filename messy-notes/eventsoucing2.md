@@ -19,15 +19,19 @@ Links CQRS
   - https://speakerdeck.com/tamizhvendan/rethinking-state-management-tw-geeknight
   - https://speakerdeck.com/mploed/event-sourcing-workshop-at-software-architecture-summit-2016
   - https://speakerdeck.com/mploed/event-sourcing-einfuhrung-und-best-practices
-
-  https://speakerdeck.com/wjzijderveld/event-sourcing-in-practice-at-qandidate-dot-com - in production  / PHP
-
+  - https://speakerdeck.com/wjzijderveld/event-sourcing-in-practice-at-qandidate-dot-com - in production  / PHP
   - https://speakerdeck.com/awsmsrc/event-sourcing-and-microservices-with-golang (2015/04) - speak.io, golang
   - https://speakerdeck.com/sebastienhouze/event-sourcing (2016/09)
   - https://speakerdeck.com/ulff/event-sourcing-in-php (2016/02)
   - https://speakerdeck.com/ulff/time-traveling-with-event-sourcing
   - https://speakerdeck.com/bymongo/yourprezi (2012, russian)
   - https://speakerdeck.com/robsmallshire/event-sourced-domain-models-in-python (2015/09)
+
+Companies:
+  - https://rewe-digital.dvinci.de/de/p/commercetools/jobs/302/scala-backend-engineer-mw-berlin - job at Rewe
+  - https://de.wizbii.com/company/telefonica/job/telefnica-next-back-end-cloud-developer-m-w-in-berlin - job at Telefonica
+  - http://www.talentsearchpeople.com/en/jobs/Ruby-on-Rails-Frontend-and-Backend-Developers/?page=jobDetails&pubID=29253&functionLevel1=4644 -  Ruby job / Barcelona / talentsearchpeople - use ES
+  - http://www.golangprojects.com/golang-go-job-baa-Senior-Backend-Developer-Golang-Berlin-OptioPay-GmbH.html - Go/Golang job: Senior Backend Developer Golang @ OptioPay GmbH
 
 
 Haskel:
@@ -60,25 +64,13 @@ Videos:
   - https://skillsmatter.com/skillscasts/6828-time-travelling-in-distributed-software-systems
 
 
-Implementing the Reactive Manifesto with Azure and AWS
-  - download video!!!
-
-
-
-
-
-
-
-
-
-
 
 
 
 http://gotocon.com/dl/goto-amsterdam-2011/slides/ErikRozendaal_ExploringLightWeightEventSourcing.pdf
 
 
-https://berlinbuzzwords.de/session/event-sourcing-yammer - Yammer !!1
+
 
 
 
@@ -112,10 +104,6 @@ Samza State management:
 - https://dev.otto.de/2015/09/30/on-monoliths-and-microservices/ - On Monoliths and Microservices | dev.otto.de
 
 
-- https://rewe-digital.dvinci.de/de/p/commercetools/jobs/302/scala-backend-engineer-mw-berlin - job at Rewe
-- https://de.wizbii.com/company/telefonica/job/telefnica-next-back-end-cloud-developer-m-w-in-berlin - job at Telefonica
-- http://www.talentsearchpeople.com/en/jobs/Ruby-on-Rails-Frontend-and-Backend-Developers/?page=jobDetails&pubID=29253&functionLevel1=4644 -  Ruby job / Barcelona / talentsearchpeople - use ES
-- http://www.golangprojects.com/golang-go-job-baa-Senior-Backend-Developer-Golang-Berlin-OptioPay-GmbH.html - Go/Golang job: Senior Backend Developer Golang @ OptioPay GmbH
 
 
 - http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4864802&fileOId=4864803 - Practitioners’ view on command query responsibility segregation  (pdf)

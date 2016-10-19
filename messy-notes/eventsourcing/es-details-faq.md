@@ -1,16 +1,9 @@
-
 ## ES FAQ
   - [Achieving consistency in CQRS with linear event store - 2015/09 - discussion on Reddit](https://m.reddit.com/r/programming/comments/3l0hp1/achieving_consistency_in_cqrs_with_linear_event/?utm_source=mweb_redirect&compact=true)
   - [Messaging Flavours - kinds of Events](http://verraes.net/2015/01/messaging-flavours/)
   - [Domain Events - 2014/11](http://verraes.net/2014/11/domain-events/)
-
-
   - [CQRS with Event Sourcing – Neos - From the Labs - 2016/08](https://www.youtube.com/watch?v=JNt4Wlu16e4)
-
-
   - [What is a Domain Event? - 2010/04](http://codebetter.com/gregyoung/2010/04/11/what-is-a-domain-event/)
-
-
   - [Event Sourcing - Versioning](https://abdullin.com/post/event-sourcing-versioning/)
 
 
