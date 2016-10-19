@@ -1,0 +1,1 @@
+- [http://softwareengineeringdaily.com/2016/10/14/kafka-event-sourcing-with-neha-narkhede/](Kafka Event Sourcing with Neha Narkhede)
