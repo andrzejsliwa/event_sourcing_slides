@@ -10,5 +10,7 @@
 
 ![Flow](images/CQRS-flow.jpg?raw=true)
 
+> from http://danielwhittaker.me/2014/10/02/cqrs-step-step-guide-flow-typical-application/
+
 
 
