@@ -8,7 +8,7 @@
 
 ## Overview:
 
-![Flow](blob/master/images/CQRS-flow.jpg?raw=true)
+![Flow](images/CQRS-flow.jpg?raw=true)
 
 
 
