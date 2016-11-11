@@ -5,9 +5,7 @@
 
 
 - http://www.lagomframework.com/documentation/1.1.x/java/ES_CQRS.html
-
 - http://www.slideshare.net/trivadis/trivadis-techevent-2016-introduction-to-lagom-another-microservicebased-framework-by-thomas-graf
-
 
 - [Akka persistence == event sourcing in 30 minutes - 2014/04](http://de.slideshare.net/ktoso/akka-persistence-event-sourcing-in-30-minutes)
 - [Event-sourced architectures with Akka - 2014/10](http://de.slideshare.net/SanderMak/eventsourced-architectures-with-akka)
@@ -18,3 +16,7 @@
 - [Dr. Roland Kuhn: Reactive Design Patterns - 2016/02](http://www.slideshare.net/inoio/dr-roland-kuhn-reactive-design-patterns) - with a Bank Transfer demo
 
 - http://www.slideshare.net/Typesafe_Inc
+
+
+
+- https://forcomprehension.com/courses/
